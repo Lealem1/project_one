@@ -15,9 +15,9 @@ body {
   background-color: rgb(255, 255, 255);
   color: blue;
   width: auto;
-  
 }
-.toolbar h3{
+
+.toolbar h3 {
   text-align: center;
 }
 
@@ -75,7 +75,7 @@ nav a:hover {
   align-items: center;
   justify-content: space-between;
   padding: 130px 24px;
-  background-image:url(Header\ bg.svg);
+  background-image: url(Header\ bg.svg);
   background-repeat: no-repeat;
   background-color: white;
   border-radius: 20px;
