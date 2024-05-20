@@ -5,13 +5,13 @@ body {
   color: rgb(1, 0, 5);
 }
 
-.port{
+.port {
   width: 100%;
 }
 
 .toolbar {
   display: flex;
-  justify-content:space-around;
+  justify-content: space-around;
   background-color: rgb(255, 255, 255);
   color: blue;
   width: auto;
@@ -52,9 +52,12 @@ body {
   margin-bottom: 30px;
 }
 
-.first-1,.second-1,.third-1,.fourth-1{
+.first-1,
+.second-1,
+.third-1,
+.fourth-1 {
   margin-left: 50px;
-  margin-top:20px;
+  margin-top: 20px;
 }
 
 .primary {
@@ -553,13 +556,19 @@ body {
     margin-top: 20px;
   }
 
-  .one,.two,.three,.four {
+  .one,
+  .two,
+  .three,
+  .four {
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 20px;
   }
 
-  .first,.second,.third,.fourth {
+  .first,
+  .second,
+  .third,
+  .fourth {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -567,7 +576,10 @@ body {
     margin-bottom: 20px;
   }
 
-  .action-button,.action-button-1,.action-button-2,.action-button-3 {
+  .action-button,
+  .action-button-1,
+  .action-button-2,
+  .action-button-3 {
     margin-top: 20px;
   }
 
@@ -594,7 +606,8 @@ body {
     margin-bottom: 20px;
   }
 
-  .frame,.skill {
+  .frame,
+  .skill {
     display: flex;
     align-items: center;
     gap: 10px;
@@ -628,7 +641,10 @@ body {
     margin-top: 10px;
   }
 
-  .one,.two,.three,.four {
+  .one,
+  .two,
+  .three,
+  .four {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -636,8 +652,19 @@ body {
     padding: 20px;
   }
 
-  .first,.second,.third,.fourth,.Language,.frame,.lang-img,.skill,.action-button,.action-button-1,.action-button-2,
-  .action-button-3,.main {
+  .first,
+  .second,
+  .third,
+  .fourth,
+  .Language,
+  .frame,
+  .lang-img,
+  .skill,
+  .action-button,
+  .action-button-1,
+  .action-button-2,
+  .action-button-3,
+  .main {
     margin-bottom: 10px;
   }
 
