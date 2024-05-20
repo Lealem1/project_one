@@ -18,7 +18,7 @@ body {
 }
 
 .toolbar h3 {
-  text-align: center;
+  padding-left: 35px;
 }
 
 nav ul {
@@ -51,7 +51,7 @@ nav a:hover {
   height: 100vh;
   width: 100%;
   z-index: 999;
-  background-color: rgba(96, 112,255, 0.8);
+  background-color: rgba(96, 112, 255, 0.8);
   backdrop-filter: blur(2px);
   box-shadow: -1px 0 10px rgba(0, 0, 0, 0.1);
   align-items: flex-start;
