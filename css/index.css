@@ -48,11 +48,11 @@ nav a:hover {
   position: fixed;
   top: 0;
   right: 0;
-  height: 250vh;
-  width: 250px;
+  height: 100vh;
+  width: 100%;
   z-index: 999;
   background-color: rgb(145, 134, 239);
-  backdrop-filter: blur(30px);
+  backdrop-filter: blur(5px);
   box-shadow: -1px 0 10px rgba(0, 0, 0, 0, 1);
   align-items: flex-start;
 }
